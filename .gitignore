@@ -1,0 +1,6 @@
+/__pycache__
+tools/__pycache__
+filesystem/__pycache__
+tools/recovery/recover.exe
+tools/recovery/compile.bat
+PATH
